@@ -218,8 +218,8 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file in 
 
 ## 🔗 Related Projects
 
-- **LSPotato** - Asset management tool for Blender
-- **LSCherry** - Integration tool for LSPotato registries
+- [**LSPotato**](https://github.com/lvoxx/LSPotato) - Asset management tool for Blender
+- [**LSCherry**](https://github.com/lvoxx/LSCherry) - Toon Shader Framework for Blender
 
 ---
 
