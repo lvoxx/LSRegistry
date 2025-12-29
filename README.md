@@ -18,6 +18,16 @@
 
 LSRegistry is a public repository that serves as a centralized registry hub for LSPotato and LSCherry. It allows creators to publish and manage their Blender asset registries, making them easily accessible to the community through a standardized namespace system.
 
+## Quick Copy Namespace
+```txt
+---World Builder---
+io.github.lvoxx.world-builder:1.0.0
+io.github.lvoxx.world-builder:dummy
+
+---Lineart
+io.github.x-x404.lineart:0.0.1
+```
+
 ## ✨ Features
 
 - 🎯 **Namespace-based Organization** - Clear hierarchical structure for registry identification
